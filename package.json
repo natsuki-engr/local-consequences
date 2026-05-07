@@ -8,6 +8,7 @@
     "test": "node test/run.js"
   },
   "devDependencies": {
+    "@typescript-eslint/parser": "^8.59.2",
     "eslint": "^9.18.0",
     "vue-eslint-parser": "^9.4.3"
   }
