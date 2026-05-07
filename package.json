@@ -1,0 +1,14 @@
+{
+  "name": "eslint-plugin-local-consequences",
+  "version": "0.0.1",
+  "private": true,
+  "description": "ESLint rule that flags Vue <script setup> bindings whose template usage is confined to a subtree.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node test/run.js"
+  },
+  "devDependencies": {
+    "eslint": "^9.18.0",
+    "vue-eslint-parser": "^9.4.3"
+  }
+}
